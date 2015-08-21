@@ -58,3 +58,5 @@ if (file.exists("./result.txt")){
 }
 ## write to text
 write.csv(averages, file="./result.txt", row.names=FALSE)
+
+
