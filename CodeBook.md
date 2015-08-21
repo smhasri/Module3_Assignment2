@@ -1,7 +1,7 @@
 Codebook
 ========
 
-List of variables name inside Dataset
+List of variables name in the Dataset
 
 ------------------------------
 
